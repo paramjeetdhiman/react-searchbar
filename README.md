@@ -1,7 +1,5 @@
-## NETFLIX-CLONE
+## React SearchBar UI
 
-#### Link :
-
-[<img src="./public/view.png />]()
+[<img src="./public/view.png" />]()
 
 [<img src="./public/clicked.png" />]()
